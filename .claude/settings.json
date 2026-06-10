@@ -1,12 +1,11 @@
 {
   "mcpServers": {
     "fathom": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "mcp-remote@latest",
-        "https://api.fathom.ai/mcp"
-      ]
+      "command": "node",
+      "args": ["/root/fathom-mcp/dist/index.js"],
+      "env": {
+        "FATHOM_API_KEY": "${FATHOM_API_KEY}"
+      }
     }
   }
 }
