@@ -2,7 +2,7 @@
   "mcpServers": {
     "fathom": {
       "command": "node",
-      "args": ["/root/fathom-mcp/dist/index.js"],
+      "args": ["/home/user/routine-sandbox/fathom-mcp/index.js"],
       "env": {
         "FATHOM_API_KEY": "${FATHOM_API_KEY}"
       }
