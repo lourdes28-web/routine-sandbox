@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fathom": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "mcp-remote@latest",
+        "https://api.fathom.ai/mcp"
+      ]
+    }
+  }
+}
