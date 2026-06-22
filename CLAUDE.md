@@ -22,7 +22,7 @@ This repo exists to run a post-meeting routine triggered by the user. When the u
 
 ### Step 2 — Check Open & Overdue ClickUp Tasks
 Before creating any new tasks:
-- Search ClickUp for all open tasks assigned to the user in the **12-Week Execution Plan** list (list_id: `901327095107`).
+- Search ClickUp for all open tasks assigned to the user in the **List** list.
 - Identify any **overdue tasks** (due date has passed, still open).
 - Identify any **tasks that overlap** with new action items from the transcript — flag these as potential duplicates instead of creating a new task.
 - Keep this list in context for use in Steps 4 and 6.
@@ -32,7 +32,7 @@ Before creating any new tasks:
 |---|---|
 | ClickUp Workspace | `90132299797` |
 | ClickUp Space (Local Handyman St. Louis) | `901313745132` |
-| ClickUp List (12-Week Execution Plan) | `901327095107` |
+| ClickUp List (List) | `901326813470` |
 | ClickUp Assignee (St. Louis Admin / Lourdes) | `162138227` |
 | Notion Daily Work Notes database | `7d360a23-5d92-43cc-9782-3cb1be4e77b0` |
 | Notion Daily Work Notes data source | `4734ed0c-4d14-4bb0-9155-c2c019fdbdcb` |
@@ -203,7 +203,7 @@ Present everything in this order:
 - **Lourdes / St. Louis Admin** — the user running this routine; stlouis-admin@localhandyman.com
 - **Nikki Zavradinos** — business owner; gives direction, reviews work, assigns tasks
 - **Bridget** — handles estimates and some client-facing work; also has a contact assignment in GHL
-- **Dan** — team member
+- **Dan** — co-owner, estimator, Nikki's husband
 - **Mary** — newer hire; taking over smaller estimates and phone calls
 - **Pareto** — the business coaching/training program Nikki uses
 
