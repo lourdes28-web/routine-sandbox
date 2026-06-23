@@ -70,7 +70,7 @@ For each of Lourdes's action items:
 - Otherwise → create a new task with:
   - `name`: clear, action-oriented task name
   - `markdown_description`: brief description + context from the meeting + specific instructions (what exactly to do, how, any constraints or notes from Nikki)
-  - `list_id`: `901327095107`
+  - `list_id`: `901326813470`
   - `assignees`: `["162138227"]`
   - `status`: `to do`
   - `due_date`: YYYY-MM-DD if available
